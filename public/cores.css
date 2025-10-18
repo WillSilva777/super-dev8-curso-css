@@ -1,0 +1,10 @@
+h2{
+   /*
+   Definir a cor do texto utilizando o rgb (red,blue e gree)
+   R =>0..255
+   G =>0..255
+   B =>0..255
+   */
+
+    color: rgb(64, 226, 43);
+}
