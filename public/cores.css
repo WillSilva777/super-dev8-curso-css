@@ -1,11 +1,11 @@
 /* CSS reset */
-body{
+body {
     margin: 0;
     padding: 0;
 }
 
-h2{
-   /*
+h2 {
+    /*
    Definir a cor do texto utilizando o rgb (red,blue e gree)
    R =>0..255
    G =>0..255
@@ -17,17 +17,18 @@ h2{
 
 div {
     background-color: blue;
-}
 
-a{
-    color: #FFFFFF;
-    /*text-decoration altera a decoração do texto
-    none faz com que o texto não tenha nenhuma decoração */     
-    text-decoration: none;
-}
-/*hover é a ação que ocorre quando passar o mouse por cima do elemento */
-a:hover{
-    color: #ff6500;
-    background-color: rgb(108, 114, 202);
 
+    a {
+        color: #FFFFFF;
+        /*text-decoration altera a decoração do texto
+    none faz com que o texto não tenha nenhuma decoração */
+        text-decoration: none;
+    }
+
+    /*hover é a ação que ocorre quando passar o mouse por cima do elemento */
+    a:hover {
+        color: #ff6500;
+
+    }
 }
