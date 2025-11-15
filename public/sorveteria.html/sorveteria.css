@@ -1,0 +1,101 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    min-height: 100vh;
+    background: linear-gradient(180deg, #eefaf7, #d4f4ff);
+    padding: 15px;
+}
+
+.head-pagina{
+    background-color: #189c8e;
+    border-radius: 10px;
+    align-items: center;
+    color: #fff;
+    margin-bottom: 15px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 0px 20px;    
+} 
+.item{
+    display: flex;
+    gap: 10px;   
+}
+
+.item1{
+    padding: 7px;
+    margin: 1px;
+    border-radius: 20px;
+    background-color: #00b096;
+    color: #fff;
+    width: min-content ;
+    padding-right: 50px;
+    align-items: center;
+}
+
+.segundo-item{
+    background-color: #fff;
+    max-height: 180px;
+    border-radius: 15px;
+    border-top: 20px;
+    padding: 16px;
+    margin-bottom: 20px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.item-esquerdo{
+    max-width: 430px;
+    max-height: 215px;
+}
+
+.sabores-do-dia{
+    padding: 7px;
+    margin: 1px;
+    border-radius: 20px;
+    background-color: #00b096;
+    color: #fff;
+    max-width: 100%;
+    text-align: center;
+    
+}
+
+.sorvetao{
+    width: 220px;
+    font-size: 100px;
+    text-align: center;
+    border-radius: 16px;
+    background: radial-gradient(circle at 20% 20%, #fff, #ffd1dc 40%, #ffb6c1 70%);
+}
+
+.nossos-sabores{
+    color: #00b096;
+}
+
+.propaganda{        
+    font-size: x-small;
+}
+
+.organizacao-cardapio{
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.cardapio{
+    background-color: #fff;
+    border-radius: 18px;
+    width: 150px;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;      
+}
+
+.produto{
+    font-size: xx-large;
+}
+

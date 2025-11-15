@@ -47,7 +47,7 @@ div.section{
 
 .item{
     background-color: var(--item-background-color);
-    color: var(item-color);
+    color: var(--item-color);
     padding: 10px;
     margin: 4px;
     border-radius: 4px;
