@@ -128,3 +128,34 @@ div.section{
     padding-top: 5px;
     padding-bottom: 20px;
 }
+
+.align-content-flex-start{
+    align-content: flex-start;
+}
+
+.align-content-flex-end{
+    align-content: flex-end;
+}
+
+.align-content-center{
+    align-content: center;
+}
+
+.align-content-stretch{
+    align-content: stretch;
+}
+
+.align-content-space-between{
+    align-content: space-between;
+    
+}
+
+.align-content-space-around{
+    align-content: space-around;
+}
+
+.altura-align-content{
+    height: 300px;
+    flex-wrap: wrap;
+} 
+
